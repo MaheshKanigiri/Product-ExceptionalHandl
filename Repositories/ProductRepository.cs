@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Product_ExceptionalHandl.ExceptionHandling;
+﻿using Product_ExceptionalHandl.ExceptionHandling;
 using Product_ExceptionalHandl.Interface;
 using Product_ExceptionalHandl.Models;
-using Product_ExceptionalHandl.Repositories;
 
 namespace Product_ExceptionalHandl.Repositories
 {
